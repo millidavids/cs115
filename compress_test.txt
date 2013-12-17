@@ -1,0 +1,64 @@
+this is a test file.
+this is to test the compression ability
+of program 4.
+I will include punctuation and capital letters.
+I will also include new lines.
+lol
+this line will be extremely long and will be used to test if the program will handle longer lines than would normally be seen in a normal text file. i will try to make this at least a couple of hundred characters long so as to test this correctly.  i will also use different words as well as repeating words to make sure that the program accurately compresses the line into the appropriate unique words index
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+now i will copy and paste this line many times to see how the program handles a lot of redundant words and line
+this file is now starting to get bigger
+i want to try to append more text onto this file to make it longer
+i will just type out a stream of conscious
+i am enjoying python
+i look forward to working on my own projects with python in the future
+random punctuation (*&(*^)& )(&^^ (*& (*^&*%^&% &%$%^$ ^&%$&^ ^*(& 
+i was having trouble with none ascii characters in files that i was copy pasting from the internet
+i hope that actually typing the text file out solves this problem
+i have also been pondering how one could go about compressing any type of file
+of course i could do research on it. But i would like to come up with a clever idea on how to do it before i look it up
+i am guessing the algorithm is similar to our program 4. The main difference being that you would search the machine
+code for similarities instead of ascii characters
+I will look this up later to find out.
+It seems to me that compression is heavily dependent on patterns.
+This file should be long enough now for a proper test.

@@ -1,0 +1,33 @@
+Prolog
+Author: David Yurek
+
+Section: 012
+
+Sept. 11, 2013
+
+Lab 4 math.sqrt
+
+
+
+When using the sqrt function, the program ran exactly the same as when I used "**(1/2)".
+
+When trying different values for math.sqrt, I got this output using the shell:
+
+import math
+math.sqrt(-1)
+Traceback (most recent call last):
+  File "<string>", line 1, in <fragment>
+builtins.ValueError: math domain error
+math.sqrt(1)
+1.0
+math.sqrt(16)
+4.0
+math.sqrt(cheetos)
+Traceback (most recent call last):
+  File "<string>", line 1, in <fragment>
+builtins.NameError: name 'cheetos' is not defined
+math.sqrt(1.5)
+1.224744871391589
+
+The math.sqrt function seems to accept values just like "**(1/2)" would have. When trying to sqrt a negative number I got a domain error, just like you would encounter
+if the math had been tried by hand. The sqrt accepts integers and floats, but not cheetos since cheetos is a string.
